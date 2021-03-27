@@ -1,3 +1,3 @@
 # Harry-Potter-API
 
-![alt text](master/Harry.png)
+![alt text](Harry.png)
